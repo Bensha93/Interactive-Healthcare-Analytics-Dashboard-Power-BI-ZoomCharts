@@ -48,5 +48,3 @@ It’s designed to be **visually clean, intuitive, and fully interactive**, maki
 
 ---
 
-## 📂 Project Structure
-
